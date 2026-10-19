@@ -52,7 +52,7 @@ class _NotificationScreenState extends State<NotificationScreen> {
       "time": "15 minutes ago",
       "type": "like",
       "read": "false",
-    }
+    },
     {
       "username": "Maria santos",
       "message": "mentioned you in a comment.",
